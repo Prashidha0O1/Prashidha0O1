@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, flutter, react, java**
 
-- ⚡ Fun fact **XD**
+- ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
