@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashidha Rawal</h1>
-<h3 align="center">Expertise in Identifying Vulnerabilities and Implementing Robust Security Measures</h3>
+<h3 align="center">Passionate Developer: Uniting ReactJS, Java, and Flutter to Create Exceptional Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashidha0o1&label=Profile%20views&color=0e75b6&style=flat" alt="prashidha0o1" /> </p>
 
