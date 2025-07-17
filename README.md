@@ -4,10 +4,6 @@
 └──┴──┴──┴──┴──┴──┴──┴──┴──┴──┘
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/l3vRkGgMfvANIFtE4/giphy.gif" width="50" />
-</div>
-
 ```
 ┌─[WHOAMI]──────────────────────────────────────────────┐
 │                                      
@@ -21,9 +17,7 @@
 └──────────────────────────────────────────────────────
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
-</div>
+
 
 ```
 ┌─[SOCIAL]──────────────────────────────────────────────┐
@@ -35,9 +29,6 @@
 └──────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
-</div>
 
 ```
 ┌─[RECENT BLOGS]────────────────────────────────────────┐
@@ -48,10 +39,6 @@
 │  
 └──────────────────────────────────────────────────────
 ```
-
-<div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
-</div>
 
 ```
 ┌──┬──┬──┬──┬──┬──┬──┬──┬──┬──┐
