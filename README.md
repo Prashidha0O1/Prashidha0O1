@@ -33,7 +33,7 @@
 ```
 ┌─[RECENT BLOGS]────────────────────────────────────────┐
 │  
-│  Will write some blogs soon enough       
+│  Will write some blogs soon enough    
 │  
 │                                                      
 │  
