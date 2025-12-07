@@ -23,7 +23,7 @@
 └──────────────────────────────────────────────────────┘
 ┌─[RECENT BLOGS]────────────────────────────────────────┐
 │  
-│  Will write some blogs soon enough    
+│  Blog: <a href="https://medium.com/@rawalprashidha">Medium</a>   
 │  
 │                                                      
 │  
