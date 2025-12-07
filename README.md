@@ -15,9 +15,9 @@
 └──────────────────────────────────────────────────────
 
 ┌─[SOCIAL]──────────────────────────────────────────────┐
-│  🌐 Website: [https://kekma.ga][DON'T CLICK💀💀💀]                    
-│  🔗 LinkedIn: [linkedin.com/in/prashidha-rawal]      
-│  📧 E-mail: [whoisprashidha@gmail.com][PLS DONT FLOOD MY MAIL]  
+│  🌐 Website: <a href="https://kekma.ga">[ DONT CLICK ⚠⚠⚠. CLICK AT YOUR OWN RISK💀 ] </a>                 
+│  🔗 LinkedIn: <a href="https://www.linkedin.com/in/prashidha-rawal-032697212/">Prashidha Rawal</a>     
+│  📧 E-mail: <a href="mailto:whoisprashidha@gmail.com">[ Please Dont Flood my mail ] </a> 
 │                                                     
 │           
 └──────────────────────────────────────────────────────┘
